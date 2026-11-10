@@ -89,6 +89,8 @@ Nguyên tắc: **không xây website hoàn chỉnh trước khi có video đầu
   - Hệ quả: dùng ANIMATION-CODE và AI-IMAGE là chính, AI-VIDEO chỉ vài khoảnh khắc điện ảnh.
   - Ghi chú: lúc kiểm tra (2026-11-09) tài khoản Higgsfield trong MCP đang ở **gói free, 0 credits** → cần đăng ký Starter trước khi sinh ảnh/video.
 
+> Nhánh phụ: thử nội dung ngắn trên Facebook Reels, tách riêng khỏi kế hoạch YouTube. Xem `01-nhanh-facebook-khao-sat-doi-thu.md`.
+
 ## 7. Checklist Tuần 1
 
 - [x] Trả lời 4 câu hỏi ở mục 6
