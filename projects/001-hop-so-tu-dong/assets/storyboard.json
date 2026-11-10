@@ -1,0 +1,301 @@
+{
+  "video": "001-hop-so-tu-dong",
+  "status": "draft-1-awaiting-brand-and-credits",
+  "total_s": 484,
+  "style_tmp": "Style tạm (brand/style.md chưa có): nền navy #0B1220; mặt trời vàng #FFD23F, giá hành tinh xanh #19B5FF, vành cam #FF8A00; chữ trắng đậm, nhãn tiếng Việt kèm tên gốc",
+  "budget_caps": {
+    "ai_image_main": 4,
+    "ai_image_spare": 4,
+    "ai_video_clips": 2,
+    "ai_video_seconds_each": 4
+  },
+  "credits_note": "No price table available; measure with trial generations",
+  "shots": [
+    {
+      "scene": 1,
+      "id": "1.1",
+      "duration_s": 4,
+      "type": "AI-VIDEO",
+      "description": "Cận cảnh tay gạt cần số tự động về D trong xe ban đêm, ánh đèn táp-lô cam–xanh. Chỉ thấy bên ngoài, không thấy cơ cấu bên trong.",
+      "prompt": "Close-up of a hand moving an automatic gear selector to D inside a car at night, dashboard glow in orange and cyan, shallow depth of field, slow push-in, no text, no faces, 16:9, 4 seconds",
+      "components": "—",
+      "credits": "1 clip (làm bản nháp 480p trước)",
+      "start_s": 0
+    },
+    {
+      "scene": 1,
+      "id": "1.2",
+      "duration_s": 8,
+      "type": "ANIMATION-CODE",
+      "description": "Mô hình bánh răng hành tinh quay chậm trên nền tối (cắt từ cảnh 7).",
+      "prompt": "—",
+      "components": "GearSetModel (Zs=18, Zr=72, Zp=27), TitleCard",
+      "credits": "0",
+      "start_s": 4
+    },
+    {
+      "scene": 1,
+      "id": "1.3",
+      "duration_s": 6,
+      "type": "ĐỒ HỌA",
+      "description": "Thẻ 'Antikythera, thế kỷ 2–1 TCN' kèm sơ đồ minh họa cặp bánh răng chốt–rãnh (ghi chữ 'minh họa', không phải ảnh hiện vật).",
+      "prompt": "—",
+      "components": "PinSlotPair, TitleCard",
+      "credits": "0",
+      "start_s": 12
+    },
+    {
+      "scene": 1,
+      "id": "1.4",
+      "duration_s": 24,
+      "type": "ANIMATION-CODE",
+      "description": "Chữ câu hỏi hiện từng dòng ('Vì sao giữ yên một bộ phận mà mọi thứ đổi khác?') trên mô hình bánh răng, zoom dần.",
+      "prompt": "—",
+      "components": "GearSetModel, Subtitle",
+      "credits": "0",
+      "start_s": 18
+    },
+    {
+      "scene": 2,
+      "id": "2.1",
+      "duration_s": 18,
+      "type": "ANIMATION-CODE",
+      "description": "Cặp bánh răng chốt–rãnh gắn trên bánh răng khác: kim 'Mặt Trăng' chạy lúc nhanh lúc chậm; thước tốc độ bên cạnh. Nhãn 'minh họa'.",
+      "prompt": "—",
+      "components": "PinSlotPair, RatioReadout",
+      "credits": "0",
+      "start_s": 42
+    },
+    {
+      "scene": 2,
+      "id": "2.2",
+      "duration_s": 12,
+      "type": "ANIMATION-CODE",
+      "description": "Biến đổi mượt từ cặp chốt–rãnh sang sơ đồ ba vòng tròn (mặt trời, hành tinh, vành).",
+      "prompt": "—",
+      "components": "PinSlotPair, GearSetModel",
+      "credits": "0",
+      "start_s": 60
+    },
+    {
+      "scene": 3,
+      "id": "3.1",
+      "duration_s": 8,
+      "type": "AI-IMAGE",
+      "description": "Ảnh minh họa xe hơi những năm 1900 trên đường đất, tông phim ấm, chuyển động Ken Burns nhẹ. Gắn nhãn 'ảnh minh họa do AI tạo'.",
+      "prompt": "Illustration of an early 1900s open motor car on a dirt road, sepia and teal film tones, soft morning light, wide shot, no readable text, no logos, 16:9",
+      "components": "—",
+      "credits": "1 ảnh (1k)",
+      "start_s": 72
+    },
+    {
+      "scene": 3,
+      "id": "3.2",
+      "duration_s": 10,
+      "type": "ĐỒ HỌA",
+      "description": "Dòng thời gian: Lanchester (xe sản xuất đầu tiên), Wilson-Pilcher (đầu những năm 1900), Ford Model T (1908).",
+      "prompt": "—",
+      "components": "TimelineCard",
+      "credits": "0",
+      "start_s": 80
+    },
+    {
+      "scene": 3,
+      "id": "3.3",
+      "duration_s": 8,
+      "type": "AI-IMAGE",
+      "description": "Xe tourer đầu thế kỷ 20 kiểu Model T (kiểm hình dáng thủ công; nếu sai dùng ảnh tư liệu công khai, kiểm bản quyền). Ken Burns.",
+      "prompt": "Illustration of a black early 1900s touring car on a country road, tall narrow body, spoked wheels, film grain, wide shot, no readable text, no logos, 16:9",
+      "components": "—",
+      "credits": "1 ảnh (1k) + 1 dự phòng",
+      "start_s": 90
+    },
+    {
+      "scene": 4,
+      "id": "4.1",
+      "duration_s": 30,
+      "type": "ANIMATION-CODE",
+      "description": "Ba bàn đạp nhãn tiếng Việt: trái (hết cỡ = thấp, nửa chừng = trung gian, nhả = cao), giữa = lùi, phải = phanh hộp số. Hoạt họa từng trạng thái.",
+      "prompt": "—",
+      "components": "PedalDiagram, Subtitle",
+      "credits": "0",
+      "start_s": 98
+    },
+    {
+      "scene": 4,
+      "id": "4.2",
+      "duration_s": 13,
+      "type": "ANIMATION-CODE",
+      "description": "Dải phanh (band) siết quanh trống, một phần bộ bánh răng bị dừng; chú thích 'phần bị dừng quyết định số'.",
+      "prompt": "—",
+      "components": "BandDrum, GearSetModel",
+      "credits": "0",
+      "start_s": 128
+    },
+    {
+      "scene": 5,
+      "id": "5.1",
+      "duration_s": 8,
+      "type": "AI-IMAGE",
+      "description": "Phòng thiết kế kỹ thuật thập niên 1930, bàn vẽ, ánh đèn vàng, Ken Burns. Gắn nhãn AI.",
+      "prompt": "Illustration of a 1930s automotive engineering drafting room, engineers at drafting tables seen from behind, warm lamp light, blueprints, film grain, wide shot, no readable text, 16:9",
+      "components": "—",
+      "credits": "1 ảnh (1k)",
+      "start_s": 141
+    },
+    {
+      "scene": 5,
+      "id": "5.2",
+      "duration_s": 20,
+      "type": "ĐỒ HỌA",
+      "description": "Dòng thời gian: đầu những năm 1930 (nhóm Thompson bắt đầu), 1937 (Oldsmobile bán tự động, vẫn cần bàn đạp ly hợp), 1939/1940 (Hydra-Matic).",
+      "prompt": "—",
+      "components": "TimelineCard",
+      "credits": "0",
+      "start_s": 149
+    },
+    {
+      "scene": 5,
+      "id": "5.3",
+      "duration_s": 15,
+      "type": "AI-IMAGE",
+      "description": "Xe sedan Mỹ kiểu cuối thập niên 1930 trên phố, hoàng hôn, Ken Burns. Gắn nhãn AI; không nhận là Oldsmobile thật.",
+      "prompt": "Illustration of a late-1930s American sedan on a city street at dusk, teal and amber tones, film grain, wide shot, no readable text, no logos, 16:9",
+      "components": "—",
+      "credits": "1 ảnh (1k) + 1 dự phòng",
+      "start_s": 169
+    },
+    {
+      "scene": 6,
+      "id": "6.1",
+      "duration_s": 22,
+      "type": "ANIMATION-CODE",
+      "description": "Sơ đồ khối: động cơ, khớp nối thủy lực, ba bộ hành tinh, trục ra; chữ 'Khớp nối thủy lực ≠ biến mô'; mô-men không tăng.",
+      "prompt": "—",
+      "components": "BlockDiagram, GearSetModel (3 bản thu nhỏ)",
+      "credits": "0",
+      "start_s": 184
+    },
+    {
+      "scene": 6,
+      "id": "6.2",
+      "duration_s": 14,
+      "type": "ĐỒ HỌA",
+      "description": "Thẻ chữ 'Hàng trăm nghìn chiếc' và hai thẻ tên xe tăng M5 Stuart, M24 Chaffee (chỉ chữ, không vẽ xe).",
+      "prompt": "—",
+      "components": "TitleCard",
+      "credits": "0",
+      "start_s": 206
+    },
+    {
+      "scene": 7,
+      "id": "7.1",
+      "duration_s": 37,
+      "type": "ANIMATION-CODE",
+      "description": "Mô hình rã rời: mặt trời (vàng), giá hành tinh (xanh), vành răng (cam), nhãn tiếng Việt kèm tên gốc; chỉ ra đầu vào, đầu ra, bộ phận bị giữ.",
+      "prompt": "—",
+      "components": "GearSetModel (exploded), Labels",
+      "credits": "0",
+      "start_s": 220
+    },
+    {
+      "scene": 8,
+      "id": "8.1",
+      "duration_s": 35,
+      "type": "ANIMATION-CODE",
+      "description": "Giữ vành (biểu tượng khóa). Mặt trời vào, giá ra. Hai bộ đếm vòng: 5 vòng mặt trời = 1 vòng giá. Công thức 1 + Zr/Zs = 1 + 72/18 = 5,0.",
+      "prompt": "—",
+      "components": "GearSetModel (giữ vành), RatioReadout",
+      "credits": "0",
+      "start_s": 257
+    },
+    {
+      "scene": 9,
+      "id": "9.1",
+      "duration_s": 21,
+      "type": "ANIMATION-CODE",
+      "description": "Giữ mặt trời. Vành vào, giá ra. Công thức 1 + Zs/Zr, thanh so sánh với cảnh 8: giá trị nằm giữa 1 và 2.",
+      "prompt": "—",
+      "components": "GearSetModel (giữ mặt trời), RatioReadout",
+      "credits": "0",
+      "start_s": 292
+    },
+    {
+      "scene": 10,
+      "id": "10.1",
+      "duration_s": 28,
+      "type": "ANIMATION-CODE",
+      "description": "Giữ giá. Hai mũi tên ngược chiều, dấu trừ nhấp nháy, −72/18 = −4; nhãn 'số lùi'.",
+      "prompt": "—",
+      "components": "GearSetModel (giữ giá), RatioReadout",
+      "credits": "0",
+      "start_s": 313
+    },
+    {
+      "scene": 11,
+      "id": "11.1",
+      "duration_s": 53,
+      "type": "ANIMATION-CODE",
+      "description": "Trạng thái 1: giữ vành, tỉ số 5. Trạng thái 2: khóa hai bộ phận, tỉ số 1. Đổi nhãn đầu vào sang vành, giữ mặt trời, tỉ số 1,25. Đồng hồ tốc độ; chữ 'ví dụ minh họa'.",
+      "prompt": "—",
+      "components": "GearSetModel (3 trạng thái), RatioReadout, Speedometer",
+      "credits": "0",
+      "start_s": 341
+    },
+    {
+      "scene": 12,
+      "id": "12.1",
+      "duration_s": 30,
+      "type": "ANIMATION-CODE",
+      "description": "Sơ đồ Simpson tổng quát: hai bộ hành tinh, mặt trời nối nhau; hai phanh dải, hai ly hợp sáng lên (không gắn bảng số cụ thể vì chưa xác minh).",
+      "prompt": "—",
+      "components": "SimpsonSchematic",
+      "credits": "0",
+      "start_s": 394
+    },
+    {
+      "scene": 12,
+      "id": "12.2",
+      "duration_s": 18,
+      "type": "ĐỒ HỌA",
+      "description": "Thẻ bằng sáng chế Simpson: nộp 1944, cấp 1950 (US 2,518,824; dùng bản vẽ công khai nếu có); thẻ TorqueFlite 1956.",
+      "prompt": "—",
+      "components": "TitleCard, TimelineCard",
+      "credits": "0",
+      "start_s": 424
+    },
+    {
+      "scene": 13,
+      "id": "13.1",
+      "duration_s": 20,
+      "type": "ANIMATION-CODE",
+      "description": "Nhìn lại ba màu của bộ hành tinh, camera kéo ra thành hộp số hoàn chỉnh.",
+      "prompt": "—",
+      "components": "GearSetModel, SimpsonSchematic",
+      "credits": "0",
+      "start_s": 442
+    },
+    {
+      "scene": 13,
+      "id": "13.2",
+      "duration_s": 4,
+      "type": "AI-VIDEO",
+      "description": "Cảnh kết: xe chạy đường vắng lúc chạng vạng, nhìn từ phía sau, không thấy cơ cấu.",
+      "prompt": "Cinematic rear tracking shot of a car driving on an empty road at dusk, orange and teal sky, slight motion blur, no text, no readable plates, 16:9, 4 seconds",
+      "components": "—",
+      "credits": "1 clip (nháp 480p trước)",
+      "start_s": 462
+    },
+    {
+      "scene": 13,
+      "id": "13.3",
+      "duration_s": 18,
+      "type": "ĐỒ HỌA",
+      "description": "Màn kết: tên kênh (chờ chốt), gợi ý tập sau.",
+      "prompt": "—",
+      "components": "TitleCard",
+      "credits": "0",
+      "start_s": 466
+    }
+  ]
+}
