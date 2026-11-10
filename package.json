@@ -1,0 +1,11 @@
+{
+  "name": "car-channel",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Kênh YouTube về xe do AI vận hành: nghiên cứu, kịch bản, fact-check, storyboard và pipeline dựng video.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuongnv0920/car-channel.git"
+  },
+  "scripts": {}
+}

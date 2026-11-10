@@ -5,3 +5,18 @@ out/
 *.mp4
 *.wav
 *.mp3
+
+# Hệ điều hành / editor
+.DS_Store
+Thumbs.db
+
+# Log
+*.log
+npm-debug.log*
+
+# Cấu hình cục bộ của Claude Code
+.claude/settings.local.json
+
+# Media dựng/xuất
+*.mov
+*.webm
