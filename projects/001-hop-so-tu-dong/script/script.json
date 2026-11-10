@@ -1,0 +1,170 @@
+{
+  "video": "001-hop-so-tu-dong",
+  "language": "vi",
+  "status": "draft-3-factchecked-awaiting-gate-1",
+  "total_words": 1206,
+  "scenes": [
+    {
+      "scene": 1,
+      "title": "Hook",
+      "approx_timecode": "00:00–00:40",
+      "voiceover": "Bạn đạp ga. Hộp số tự chọn số cho bạn. Không bàn đạp ly hợp, không cần gạt cần số. Và bên trong nó là một ý tưởng cơ khí cổ đến mức, hơn hai nghìn năm trước, một cơ cấu của Hy Lạp có tên Antikythera đã dùng bánh răng gắn trên bánh răng để mô phỏng chuyển động không đều của Mặt Trăng. Làm sao những bánh răng xoay quanh nhau lại biến thành từng cấp số của xe? Và vì sao chỉ cần giữ yên một bộ phận, mọi thứ lại đổi khác? Hôm nay, ta mở hộp số ra xem.",
+      "visual": "Cận cảnh cần số về D, cắt sang mô hình bánh răng hành tinh quay chậm; chữ \"Antikythera, thế kỷ 2–1 TCN\" hiện nhanh.",
+      "types": [
+        "AI-IMAGE",
+        "ANIMATION-CODE"
+      ],
+      "sources": "F1, S1, S10",
+      "words": 104
+    },
+    {
+      "scene": 2,
+      "title": "Ý tưởng có từ rất lâu",
+      "approx_timecode": "00:40–01:15",
+      "voiceover": "Bánh răng gắn trên một bánh răng khác rất cổ. Cơ cấu Antikythera, vào khoảng thế kỷ thứ hai hoặc thứ nhất trước Công nguyên, dùng một cặp bánh răng như vậy để kim Mặt Trăng chạy lúc nhanh lúc chậm, giống chuyển động thật của nó. Bộ bánh răng hành tinh trong hộp số thì có các bánh nhỏ đi vòng quanh một bánh răng ở giữa, như hành tinh quay quanh Mặt Trời.",
+      "visual": "Ảnh minh họa cơ cấu Antikythera (cần nguồn ảnh hợp lệ), chuyển thành sơ đồ ba vòng tròn của bộ hành tinh.",
+      "types": [
+        "AI-IMAGE",
+        "ĐỒ HỌA"
+      ],
+      "sources": "F1, S1, S10",
+      "words": 75
+    },
+    {
+      "scene": 3,
+      "title": "Vào ô tô",
+      "approx_timecode": "01:15–01:50",
+      "voiceover": "Ô tô đến với ý tưởng này sớm hơn nhiều người tưởng. Những chiếc xe sản xuất đầu tiên của Lanchester đã dùng bánh răng epicyclic để đổi số. Xe Wilson-Pilcher, đầu những năm một nghìn chín trăm, dùng hai bộ epicyclic cho bốn tỉ số truyền. Rồi năm một nghìn chín trăm lẻ tám, đến chiếc xe thay đổi cả ngành: Ford Model T.",
+      "visual": "Hình minh họa xe cổ tông phim; bản vẽ hộp số.",
+      "types": [
+        "AI-IMAGE"
+      ],
+      "sources": "S3, S9, S14",
+      "words": 65
+    },
+    {
+      "scene": 4,
+      "title": "Hộp số của Model T",
+      "approx_timecode": "01:50–02:50",
+      "voiceover": "Model T không có cần số như xe ngày nay. Ở phần lớn xe, người lái dùng ba bàn đạp. Bên trái: đạp hết cỡ là số thấp, nửa chừng là trung gian, nhả ra là số cao. Ở giữa là số lùi. Bên phải là phanh hộp số. Ford gọi nó là ba tốc độ, nhưng ta đếm là hai số tiến, vì số thứ ba là số lùi. Bên trong, các dải phanh, gọi là band, dừng một phần của bộ bánh răng, và phần nào bị dừng quyết định xe chạy ở số nào. Đây chính là nền móng của hộp số tự động.",
+      "visual": "Sơ đồ ba bàn đạp nhãn tiếng Việt, hoạt họa ba trạng thái bàn đạp trái; dải phanh siết quanh trống.",
+      "types": [
+        "ANIMATION-CODE"
+      ],
+      "sources": "S4, S13",
+      "words": 107
+    },
+    {
+      "scene": 5,
+      "title": "Giấc mơ không cần sang số",
+      "approx_timecode": "02:50–03:35",
+      "voiceover": "Nhưng người lái vẫn phải tự đạp. Từ đầu những năm một nghìn chín trăm ba mươi, một nhóm kỹ sư của GM do Earl Thompson dẫn đầu bắt đầu làm hộp số không cần sang số. Oldsmobile ra hộp số bán tự động năm một nghìn chín trăm ba mươi bảy, nhưng vẫn cần bàn đạp ly hợp. Năm một nghìn chín trăm ba mươi chín, Hydra-Matic ra đời. Chiếc xe Oldsmobile đầu tiên mang nó được giao tháng Mười, cho đời xe năm một nghìn chín trăm bốn mươi. Nó thường được xem là hộp số tự động hoàn toàn đầu tiên sản xuất hàng loạt.",
+      "visual": "Dòng thời gian 1932 → 1937 → 1939 → 1941; hình xe Oldsmobile 1940 (cần nguồn ảnh hợp lệ). Mốc 1932 ghi là \"khởi đầu nghiên cứu\" và 1941 là \"Cadillac cũng dùng\".",
+      "types": [
+        "ĐỒ HỌA",
+        "AI-IMAGE"
+      ],
+      "sources": "S2, S3, S8, F6",
+      "words": 108
+    },
+    {
+      "scene": 6,
+      "title": "Hydra-Matic có gì bên trong",
+      "approx_timecode": "03:35–04:10",
+      "voiceover": "Hydra-Matic có bốn số tiến và ba bộ bánh răng hành tinh. Giữa động cơ và hộp số là khớp nối thủy lực, không phải biến mô. Nó truyền lực qua dầu nhưng không nhân thêm mô-men, nên bộ bánh răng phải tự gánh phần lớn dải tỉ số. Hàng trăm nghìn chiếc đã được bán trước khi xe du lịch ngừng sản xuất vào đầu năm một nghìn chín trăm bốn mươi hai. Nó còn ra chiến trường, trên xe tăng hạng nhẹ M5 Stuart và M24 Chaffee.",
+      "visual": "Sơ đồ khối: động cơ → khớp nối thủy lực → ba bộ hành tinh → trục ra. Chữ \"Khớp nối thủy lực ≠ biến mô\".",
+      "types": [
+        "ANIMATION-CODE",
+        "ĐỒ HỌA"
+      ],
+      "sources": "S2, S15",
+      "words": 89
+    },
+    {
+      "scene": 7,
+      "title": "Giải phẫu bộ bánh răng hành tinh",
+      "approx_timecode": "04:10–05:00",
+      "voiceover": "Đã đến lúc xem kỹ nó. Bộ bánh răng hành tinh gồm ba bộ phận cùng trục. Ở giữa là bánh răng mặt trời, sun gear. Quanh nó là các bánh răng hành tinh, planet gears, gắn trên một giá gọi là carrier. Ngoài cùng là vành răng, ring gear, với răng ở mặt trong. Mỗi bộ phận có thể là đầu vào, đầu ra, hoặc bị giữ yên. Giữ yên một bộ phận, dẫn động bộ phận khác, bạn có một tỉ số truyền. Đổi cách giữ, tỉ số đổi theo.",
+      "visual": "Mô hình dựng bằng Remotion/Three.js; tách rời từng bộ phận, tô màu (mặt trời vàng, giá xanh, vành cam), nhãn tiếng Việt kèm tên gốc.",
+      "types": [
+        "ANIMATION-CODE"
+      ],
+      "sources": "S1, S6",
+      "words": 92
+    },
+    {
+      "scene": 8,
+      "title": "Giữ vành răng: giảm tốc mạnh",
+      "approx_timecode": "05:00–05:55",
+      "voiceover": "Cách thứ nhất: giữ yên vành răng. Mặt trời là đầu vào, giá hành tinh là đầu ra. Tỉ số truyền bằng một cộng số răng vành chia số răng mặt trời. Ví dụ minh họa, không phải xe thật: mặt trời mười tám răng, vành bảy mươi hai răng. Một cộng bảy mươi hai chia mười tám bằng năm. Mặt trời quay năm vòng, giá chỉ quay một vòng. Tỉ số này luôn lớn hơn hai, và có thể lớn tùy ý nếu vành đủ lớn.",
+      "visual": "Vành bị \"kẹp\" bằng biểu tượng khóa; hai bộ đếm vòng quay song song; công thức hiện từng phần với 18, 72, 5,0.",
+      "types": [
+        "ANIMATION-CODE"
+      ],
+      "sources": "S1, S6 (ví dụ số tự tính)",
+      "words": 87
+    },
+    {
+      "scene": 9,
+      "title": "Giữ mặt trời: giảm tốc nhẹ",
+      "approx_timecode": "05:55–06:30",
+      "voiceover": "Cách thứ hai: giữ yên mặt trời. Vành răng là đầu vào, giá hành tinh là đầu ra. Tỉ số bằng một cộng số răng mặt trời chia số răng vành. Vì mặt trời luôn nhỏ hơn vành, tỉ số này nằm giữa một và hai. Đó là một mức giảm tốc nhẹ.",
+      "visual": "Mặt trời bị khóa; công thức; thanh so sánh tỉ số với cảnh 8.",
+      "types": [
+        "ANIMATION-CODE"
+      ],
+      "sources": "S6",
+      "words": 53
+    },
+    {
+      "scene": 10,
+      "title": "Giữ giá hành tinh: đảo chiều",
+      "approx_timecode": "06:30–07:10",
+      "voiceover": "Cách thứ ba: giữ yên giá hành tinh. Lúc này các bánh răng hành tinh chỉ quay tại chỗ, như bánh răng trung gian. Mặt trời quay chiều này, vành răng quay ngược lại. Tỉ số là âm số răng vành chia số răng mặt trời, dấu trừ nghĩa là đảo chiều. Với ví dụ của ta, đó là âm bốn. Chính đây là nguyên lý của số lùi.",
+      "visual": "Giá bị khóa, hai mũi tên ngược chiều, dấu trừ nhấp nháy; −72/18 = −4 (tự tính).",
+      "types": [
+        "ANIMATION-CODE"
+      ],
+      "sources": "S1, S6 (ví dụ số tự tính)",
+      "words": 69
+    },
+    {
+      "scene": 11,
+      "title": "Từ một bộ đến nhiều cấp số",
+      "approx_timecode": "07:10–08:10",
+      "voiceover": "Giờ ghép lại, với đúng bộ ví dụ mười tám và bảy mươi hai răng. Cho mặt trời là đầu vào và giá hành tinh là đầu ra. Giữ vành răng: tỉ số năm, lực kéo lớn nhưng chậm. Khóa hai bộ phận lại với nhau: cả bộ quay như một khối, tỉ số một. Chỉ có hai cấp. Muốn có thêm cấp ở giữa, phải đổi cách nối. Ví dụ lấy vành răng làm đầu vào rồi giữ mặt trời: một cộng mười tám chia bảy mươi hai, bằng một phẩy hai lăm. Đổi phần được giữ, đổi phần được nối, ta có thêm cấp số. Và các bánh răng vẫn luôn ăn khớp với nhau, không có cái nào phải trượt ra vào. Hộp số thật ghép nhiều bộ như vậy.",
+      "visual": "Cùng mô hình; trạng thái 1 (giữ vành → 5), trạng thái 2 (khóa hai bộ phận → 1), rồi đổi nhãn đầu vào sang vành và giữ mặt trời (→ 1,25); đồng hồ tốc độ; chữ \"ví dụ minh họa\".",
+      "types": [
+        "ANIMATION-CODE"
+      ],
+      "sources": "S6, S13 (ví dụ số tự tính)",
+      "words": 133
+    },
+    {
+      "scene": 12,
+      "title": "Xe tự chọn bằng cách nào",
+      "approx_timecode": "08:10–09:10",
+      "voiceover": "Vậy chiếc xe chọn cách giữ bằng cách nào? Bằng ly hợp và phanh. Chúng giữ hoặc nối mặt trời, giá và vành. Mỗi tổ hợp cho một số. Trong hộp số tự động, nhiều bộ hành tinh được ghép liền trong một vỏ. Một thiết kế rất phổ biến là bộ Simpson: hai bộ hành tinh có mặt trời nối với nhau. Nó cho ba số tiến và một số lùi, chỉ cần hai phanh dải và hai ly hợp. Howard Simpson nộp bằng sáng chế năm một nghìn chín trăm bốn mươi bốn, được cấp năm một nghìn chín trăm năm mươi. Chrysler dùng nó trên hộp số TorqueFlite năm một nghìn chín trăm năm mươi sáu.",
+      "visual": "Phóng to ra sơ đồ Simpson, phanh và ly hợp sáng lên theo số (tổng quát, chưa gắn bảng giữ/nối cụ thể); trang bằng sáng chế (công khai) làm nền.",
+      "types": [
+        "ANIMATION-CODE",
+        "ĐỒ HỌA"
+      ],
+      "sources": "S1, S3, S7, S12",
+      "words": 119
+    },
+    {
+      "scene": 13,
+      "title": "Kết",
+      "approx_timecode": "09:10–10:00",
+      "voiceover": "Hãy nhìn lại. Một bộ ba bánh răng: mặt trời, giá, vành. Giữ cái này, nối cái kia, và bạn có tốc độ thấp, tốc độ cao, hay số lùi. Từ cơ cấu Hy Lạp hơn hai nghìn năm trước, qua chiếc Model T ba bàn đạp, đến Hydra-Matic và những hộp số tự động hiện đại, vẫn là cùng một ý tưởng. Lần tới khi bạn gạt cần số về D, hãy nhớ rằng bên dưới sàn xe, các bánh răng nhỏ đang đi vòng quanh một mặt trời bé nhỏ. Ở tập sau, ta sẽ xem một cách chuyển số hoàn toàn khác.",
+      "visual": "Quay lại mô hình ba màu, kéo ra xa thành hộp số hoàn chỉnh; màn hình kết với tên kênh và gợi ý tập sau.",
+      "types": [
+        "ANIMATION-CODE",
+        "AI-IMAGE"
+      ],
+      "sources": "(tổng hợp từ các cảnh trên)",
+      "words": 105
+    }
+  ]
+}
